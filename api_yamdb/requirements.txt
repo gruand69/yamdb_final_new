@@ -11,7 +11,7 @@ flake8
 flake8-isort
 idna==3.4
 iniconfig==2.0.0
-isort==5.12.0
+isort
 mccabe==0.7.0
 packaging==23.1
 pep8-naming==0.13.3
