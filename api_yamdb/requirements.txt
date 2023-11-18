@@ -18,7 +18,7 @@ pep8-naming==0.13.3
 pluggy==0.13.1
 py==1.11.0
 pycodestyle
-pyflakes==3.0.1
+pyflakes
 psycopg2-binary==2.8.6
 PyJWT==2.1.0
 pytest==6.2.4
