@@ -58,7 +58,7 @@ jobs:
             username: ${{ secrets.USER }}
             key: ${{ secrets.SSH_KEY }}
             script:  |
-              sudo docker pull gruand69/api_yamdm:latest
+              sudo docker pull gruand69/api_yamdb:latest
               sudo docker compose stop
               sudo docker compose rm -f web
               touch .env
