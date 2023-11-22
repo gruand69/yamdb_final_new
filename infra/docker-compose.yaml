@@ -33,7 +33,7 @@ services:
       - web
 
 volumes:
-  postgres:
+  postgresql:
   static_value:
   media_value:
 
